@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    direction: rtl;
+    background-color: #f2f2f2;
+    padding: 20px;
+    color: #333;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+form {
+    width: 60%;
+    margin: auto;
+    background: #fff;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+button {
+    background-color: #337ab7;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.novel {
+    width: 60%;
+    margin: 15px auto;
+    background: #fff;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+}
